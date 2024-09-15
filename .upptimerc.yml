@@ -12,7 +12,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://luox.nexcord.pro/luox%20bleu.jpg
   name: Luox Status
   introTitle: "Bienevenue sur la page status de Luox !"
   introMessage: Luox Status est **LA page de status de Luox** (si tu l'avais pas compris mdr)
