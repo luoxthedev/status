@@ -18,7 +18,7 @@ status-website:
   introMessage: Luox Status est **LA page de status de Luox** (si tu l'avais pas compris mdr)
   navbar:
     - title: PageStatus
-      href: /
+      href: /uptime
     - title: Notre GitHub
       href: https://github.com/$OWNER/$REPO
 
