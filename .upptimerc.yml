@@ -9,6 +9,12 @@ sites:
     url: https://chat.nexcord.pro/
   - name: Techno Host
     url: https://host.weblink.ovh
+  - name: Google
+    url: https://google.com
+  - name: ChatGPT
+    url: https://chatgpt.com
+  - name: Discord
+    url: https://discord.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
