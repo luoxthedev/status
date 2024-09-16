@@ -7,6 +7,8 @@ sites:
     url: https://luox.nexcord.pro/
   - name: Luox Chat
     url: https://chat.nexcord.pro/
+  - name: Techno Host
+    url: https://host.weblink.ovh
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
