@@ -22,7 +22,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://luoxthedev.github.io/luoxthedev)
+[**Visit our status website →**](https://luoxthedev.github.io/status)
 
 ## 📄 License
 
