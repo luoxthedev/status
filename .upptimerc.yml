@@ -11,8 +11,6 @@ sites:
     url: https://host.weblink.ovh
   - name: Google
     url: https://google.com
-  - name: ChatGPT
-    url: https://chatgpt.com
   - name: Discord
     url: https://discord.com
 
