@@ -94,19 +94,19 @@
     "url": "https://nexcord.com",
     "icon": "https://icons.duckduckgo.com/ip3/nexcord.com.ico",
     "slug": "nexcord",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 1763,
-    "timeDay": 1763,
-    "timeWeek": 1763,
-    "timeMonth": 1763,
-    "timeYear": 1763,
+    "status": "up",
+    "uptime": "88.18%",
+    "uptimeDay": "88.18%",
+    "uptimeWeek": "88.18%",
+    "uptimeMonth": "88.18%",
+    "uptimeYear": "88.18%",
+    "time": 1882,
+    "timeDay": 1882,
+    "timeWeek": 1882,
+    "timeMonth": 1882,
+    "timeYear": 1882,
     "dailyMinutesDown": {
-      "2024-09-18": 0
+      "2024-09-18": 12
     }
   },
   {
