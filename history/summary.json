@@ -40,9 +40,9 @@
     "url": "https://host.weblink.ovh",
     "icon": "https://icons.duckduckgo.com/ip3/host.weblink.ovh.ico",
     "slug": "techno-host",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 549,
     "timeMonth": 549,
     "timeYear": 549,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-19": 0
+    }
   },
   {
     "name": "Google",
