@@ -13,8 +13,6 @@ sites:
     url: https://google.fr
   - name: Discord
     url: https://discord.com
-  - name: Nexcord
-    url: https://nexcord.com
   - name: GitHub
     url: https://github.com
 
