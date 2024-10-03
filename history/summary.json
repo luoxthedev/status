@@ -4,27 +4,29 @@
     "url": "https://luox.nexcord.pro/",
     "icon": "https://icons.duckduckgo.com/ip3/luox.nexcord.pro.ico",
     "slug": "luox-bio",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2058,
     "timeDay": 4383,
     "timeWeek": 2548,
     "timeMonth": 2058,
     "timeYear": 2058,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-03": 2
+    }
   },
   {
     "name": "Luox Chat",
     "url": "https://chat.nexcord.pro/",
     "icon": "https://icons.duckduckgo.com/ip3/chat.nexcord.pro.ico",
     "slug": "luox-chat",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 1287,
     "timeMonth": 1403,
     "timeYear": 1403,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-03": 0
+    }
   },
   {
     "name": "Techno Host",
