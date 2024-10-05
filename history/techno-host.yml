@@ -1,7 +1,7 @@
 url: https://host.weblink.ovh
-status: up
-code: 200
-responseTime: 434
-lastUpdated: 2024-10-04T23:14:47.655Z
+status: down
+code: 403
+responseTime: 150
+lastUpdated: 2024-10-05T09:21:56.971Z
 startTime: 2024-09-16T09:13:04.746Z
 generator: Upptime <https://github.com/upptime/upptime>
