@@ -4,9 +4,7 @@ repo: status # The name of this repository
 
 sites:
   - name: Luox Bio
-    url: https://luox.nexcord.pro/
-  - name: Luox Chat
-    url: https://chat.nexcord.pro/
+    url: https://luox.framer.website/
   - name: Techno Host
     url: https://host.weblink.ovh
   - name: Google
@@ -20,7 +18,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /status
-  logoUrl: https://luox.nexcord.pro/luox%20bleu.jpg
+  logoUrl: https://framerusercontent.com/images/uo19EmNRXxc5YKAllL1pzJvWQw.jpg
   name: Luox Status
   introTitle: "Bienevenue sur la page status de Luox !"
   introMessage: Luox Status est **LA page de status de Luox** (si tu l'avais pas compris mdr)
