@@ -7,6 +7,8 @@ sites:
     url: https://silverhost.duckdns.org/
   - name: Google
     url: https://google.fr
+  - name: dsc.gg
+    url: https://dsc.gg/
   - name: Discord
     url: https://discord.com
   - name: GitHub
