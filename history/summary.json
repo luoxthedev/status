@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/silverhost.duckdns.org.ico",
     "slug": "silver-host",
     "status": "down",
-    "uptime": "72.76%",
-    "uptimeDay": "72.76%",
-    "uptimeWeek": "72.76%",
-    "uptimeMonth": "72.76%",
-    "uptimeYear": "72.76%",
+    "uptime": "0.07%",
+    "uptimeDay": "0.07%",
+    "uptimeWeek": "0.07%",
+    "uptimeMonth": "0.07%",
+    "uptimeYear": "0.07%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-23": 0
+      "2025-05-24": 59,
+      "2025-05-23": 649
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 286,
-    "timeDay": 341,
-    "timeWeek": 341,
-    "timeMonth": 296,
-    "timeYear": 286,
+    "time": 285,
+    "timeDay": 262,
+    "timeWeek": 262,
+    "timeMonth": 273,
+    "timeYear": 285,
     "dailyMinutesDown": {
       "2025-01-29": 20
     }
@@ -50,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 196,
-    "timeDay": 196,
-    "timeWeek": 196,
-    "timeMonth": 196,
-    "timeYear": 196,
+    "time": 230,
+    "timeDay": 230,
+    "timeWeek": 230,
+    "timeMonth": 230,
+    "timeYear": 230,
     "dailyMinutesDown": {}
   },
   {
@@ -69,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 104,
-    "timeDay": 133,
-    "timeWeek": 133,
-    "timeMonth": 110,
+    "timeDay": 129,
+    "timeWeek": 129,
+    "timeMonth": 106,
     "timeYear": 104,
     "dailyMinutesDown": {}
   },
@@ -86,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 123,
-    "timeDay": 139,
-    "timeWeek": 139,
-    "timeMonth": 171,
-    "timeYear": 123,
+    "time": 124,
+    "timeDay": 151,
+    "timeWeek": 151,
+    "timeMonth": 144,
+    "timeYear": 124,
     "dailyMinutesDown": {
       "2025-04-13": 131,
       "2025-01-30": 23
