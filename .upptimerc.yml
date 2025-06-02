@@ -4,11 +4,13 @@ repo: status # The name of this repository
 
 sites:
   - name: SilverHost
-    url: https://silverhost.duckdns.org/
+    url: https://silverhost.fr
+  - name: SilverHost
+    url: https://panel.silverhost.fr
   - name: Google
     url: https://google.fr
   - name: dsc.gg
-    url: https://dsc.gg/
+    url: https://dsc.gg/silverhost
   - name: Discord
     url: https://discord.com
   - name: GitHub
