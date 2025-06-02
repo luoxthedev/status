@@ -5,7 +5,7 @@ repo: status # The name of this repository
 sites:
   - name: SilverHost
     url: https://silverhost.fr
-  - name: SilverHost
+  - name: SilverHost Panel
     url: https://panel.silverhost.fr
   - name: Google
     url: https://google.fr
