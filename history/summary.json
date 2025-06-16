@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/silverhost.fr.ico",
     "slug": "silver-host",
     "status": "up",
-    "uptime": "57.20%",
+    "uptime": "58.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "57.20%",
-    "uptimeYear": "57.20%",
+    "uptimeMonth": "58.58%",
+    "uptimeYear": "58.58%",
     "time": 427,
     "timeDay": 138,
     "timeWeek": 445,
@@ -34,7 +34,7 @@
     "url": "https://panel.silverhost.fr",
     "icon": "https://icons.duckduckgo.com/ip3/panel.silverhost.fr.ico",
     "slug": "silver-host-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -45,7 +45,9 @@
     "timeWeek": 874,
     "timeMonth": 893,
     "timeYear": 893,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-16": 0
+    }
   },
   {
     "name": "Google",
