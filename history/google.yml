@@ -1,7 +1,7 @@
 url: https://google.fr
-status: up
-code: 200
-responseTime: 295
-lastUpdated: 2025-07-07T23:17:20.117Z
+status: down
+code: 429
+responseTime: 340
+lastUpdated: 2025-07-08T21:13:10.038Z
 startTime: 2024-09-16T15:58:58.400Z
 generator: Upptime <https://github.com/upptime/upptime>
