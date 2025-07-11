@@ -75,19 +75,19 @@
     "url": "https://dsc.gg/silverhost",
     "icon": "https://icons.duckduckgo.com/ip3/dsc.gg.ico",
     "slug": "dsc-gg",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "98.67%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
-    "time": 877,
-    "timeDay": 729,
-    "timeWeek": 851,
-    "timeMonth": 1021,
-    "timeYear": 877,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "97.08%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.94%",
+    "time": 878,
+    "timeDay": 770,
+    "timeWeek": 858,
+    "timeMonth": 1019,
+    "timeYear": 878,
     "dailyMinutesDown": {
-      "2025-07-11": 19
+      "2025-07-11": 42
     }
   },
   {
